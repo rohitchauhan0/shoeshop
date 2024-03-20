@@ -1,4 +1,4 @@
-const BASE_URL = `https://shoeshop-tinv.onrender.com/api/v1`
+const BASE_URL = `https://shoeshop-nstv.onrender.com/api/v1`
 // const BASE_URL = `http://localhost:5000/api/v1`
 
 export const contactusEndpoint = {
